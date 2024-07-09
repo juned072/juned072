@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @juned072
+# 👋 Hi, I’m Juned
 
 Welcome to my GitHub profile! I'm a passionate front-end developer currently diving deep into the MERN Stack.
 
